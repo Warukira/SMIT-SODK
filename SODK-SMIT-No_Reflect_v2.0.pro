@@ -1,4 +1,4 @@
-update=28.01.2018 22:53:11
+update=18.02.2018 22:26:31
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,7 @@ LibName32=valves
 LibName33=mic29302
 LibName34=smf05c
 LibName35=PCB_Antenna_Lib/MyAntennas
+LibName36=SIM800C
+LibName37=ADS1115
+LibName38=CH340
+LibName39=WS2812B
