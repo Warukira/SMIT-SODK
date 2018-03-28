@@ -1,4 +1,4 @@
-update=18.02.2018 22:26:31
+update=25.03.2018 23:18:38
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,16 @@ LibName36=SIM800C
 LibName37=ADS1115
 LibName38=CH340
 LibName39=WS2812B
+LibName40=24AA32AT-I_MS
+LibName41=components
+LibName42=MOUDLE-GPS-NEO-6M_24P-16X12.2MM_
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
